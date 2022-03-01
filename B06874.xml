@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nevv projector; or The priviledged cheat: who when men do come to receive satisfaction, doth answer them all, I have got a protection.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06874</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[169]</idno>
+            <idno type="EEBO-CITATION">99885017</idno>
+            <idno type="PROQUEST">ocm99885017</idno>
+            <idno type="VID">182838</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06874)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182838)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[170])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nevv projector; or The priviledged cheat: who when men do come to receive satisfaction, doth answer them all, I have got a protection.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Gilbertson at the Bible in Giltspur-street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Verse: "I Am a projector that alwaies have thriv'd ..."</note>
+                  <note>Cf. Wing N722 which does not have "London" in the imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182838:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>The nevv PROJECTOR; OR The Priviledged CHEAT: Who when Men do come to receive Satisfaction, Doth anſwer them all, <hi>I have got a</hi> PROTECTION.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">I</seg> Am a Projector that alwaies have thriv'd</l>
+               <l>by Sideing with every <hi>Faction;</hi>
+               </l>
+               <l>I have to the bottom of <hi>Villianie</hi> div'd,</l>
+               <l>and fitted my ſelfe for all <hi>Actions;</hi>
+               </l>
+               <l>In every Corner my Springes I have ſet,</l>
+               <l>At Tennis, and Tables, and Billiards I Bet.</l>
+               <l>I Shuffle, and run into every Mans Debt:</l>
+               <l>
+                  <hi>But now I have got a Protection.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Since <hi>Sixteen hundred forty</hi> and <hi>two,</hi>
+               </l>
+               <l>In the time of our firſt <hi>Diſtraction,</hi>
+               </l>
+               <l>When paltrie People had nothing to do,</l>
+               <l>but <hi>Quarrell,</hi> and fall into <hi>Fraction;</hi>
+               </l>
+               <l>The <hi>Caveliers</hi> Party I envyed moſt,</l>
+               <l>My Sanctified <hi>Zeal</hi> was as hot as a Toaſt,</l>
+               <l>We Fought for <hi>Religion</hi> untill it was loſt:</l>
+               <l>
+                  <hi>But now I have got a Protection.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I Canted in <hi>Scripture,</hi> I Taught in a <hi>Tub,</hi>
+               </l>
+               <l>and gave them Divine Direction:</l>
+               <l>The <hi>Organ</hi> I turn'd into <hi>Dub, a dub, dub,</hi>
+               </l>
+               <l>like a <hi>Babe</hi> of the new <hi>Election,</hi>
+               </l>
+               <l>I reacht at All, and every Thing</l>
+               <l>That would my own Advancement bring.</l>
+               <l>I aim'd at the <hi>Biſhop,</hi> and Shot at the <hi>King:</hi>
+               </l>
+               <l>
+                  <hi>But now</hi> I <hi>have got a Protection.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I <hi>Preach'd,</hi> and <hi>Proteſted,</hi> I <hi>Plundred &amp; Pray'd,</hi>
+               </l>
+               <l>and gave all the <hi>People</hi> Direction;</l>
+               <l>Who ever did Truſt me, I alwaies Betray'd</l>
+               <l>by civil and ſubtle Inſpection.</l>
+               <l>When <hi>Oliver</hi> pull'd the <hi>Long Parliament</hi> down</l>
+               <l>And ſet up the ſigne of the <hi>Red-noſe</hi> and <hi>Crown,</hi>
+               </l>
+               <l>I frighted the <hi>Caveliers</hi> dead with a frown;</l>
+               <l>
+                  <hi>Yet I have got a Protection.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But <hi>Oliver</hi> dyed, and I was to ſeeke,</l>
+               <l>My ſpirits did ſuffer dejection:</l>
+               <l>I made my Addreſs to his ſimple Son <hi>Dick,</hi>
+               </l>
+               <l>A Prince of a frollick complexion;</l>
+               <l>A Man that lov'd Wine, and was given to Mirth</l>
+               <l>But had a ſmall portion of politick Worth;</l>
+               <l>So down of a ſuddain dropt <hi>Richard</hi> the fourth:</l>
+               <l>
+                  <hi>And now he doth want a Protection.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Commitee of Safety</hi> I knew would not laſt,</l>
+               <l>It was of ſuch curſed Confection;</l>
+               <l>The Weather I ſaw was ſo much over-caſt,</l>
+               <l>That I lookt for a <hi>Scottiſh</hi> Projection:</l>
+               <l>My fears come upon me, I ſweat and I ſtunk,</l>
+               <l>And ſtagger'd in Judgement, like one that was drunk,</l>
+               <l>Then in came Pollitick Generall <hi>Monck,</hi>
+               </l>
+               <l>
+                  <hi>And put me quite by my protection.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I ſmelt (by his drumming) that ſomething was coming,</l>
+               <l>to purge all the <hi>Air</hi> of infection.</l>
+               <l>The Bonfires and Ringing, did uſher the King in,</l>
+               <l>which alter'd the <hi>Zealots</hi> complexion;</l>
+               <l>Thought I; the Kings Party will be very ſtrong</l>
+               <l>And therefore jle turn and be for him ding dong,</l>
+               <l>For I by my ſubtlety ere it be long,</l>
+               <l>
+                  <hi>ſhall get me a cheating protection</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I mounted my <hi>Jennet</hi> to bring in the King</l>
+               <l>and rejoyc'd at his Reſurrection,</l>
+               <l>My voice was well pitch'd, and my Hat I did fling,</l>
+               <l>in token and ſigne of Subjection;</l>
+               <l>I Capor'd, I Ranted, I Tipled for joy.</l>
+               <l>I call'd them all Roundheads that hindred my way,</l>
+               <l>I caſt up my Cap, and cry'd <hi>Vive-le-Roy,</hi>
+               </l>
+               <l>
+                  <hi>for which I have got a Protection.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I made a diſcovery of all that I knew,</l>
+               <l>who formerly were of my Faction:</l>
+               <l>I got me to Court, and in favour <hi>I</hi> grew,</l>
+               <l>'mongſt men of my own Complexion;</l>
+               <l>With Dice, Drink, and Drabb, I did ſwagger and roar,</l>
+               <l>And though I did cry Yea and Nay before,</l>
+               <l>Yet Damn me, Confound me, and Sink me I ſwore,</l>
+               <l>
+                  <hi>for then I had got a Protction.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My Debts were advanc'd to a terrible height,</l>
+               <l>which brought me ſo much in Subjection,</l>
+               <l>I ſhould have been preſt to death with their weight,</l>
+               <l>if I had not uſed projection:</l>
+               <l>
+                  <hi>Cheapſide</hi> and <hi>Paternoſter-Row,</hi>
+               </l>
+               <l>My crafty deluſions do very well know;</l>
+               <l>For moſt of the Shops have my hand to ſhow.</l>
+               <l>
+                  <hi>but now I have got a Protection.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Draper, the Butcher, the Brewer and Baker,</l>
+               <l>are ſenſible of my Exaction,</l>
+               <l>The Presbyter, Browniſts, and Seeker and Quaker,</l>
+               <l>are waiting for ſatisfaction:</l>
+               <l>But when in the ſtreets they me eſpy,</l>
+               <l>They'l take an order with me they cry,</l>
+               <l>I ſwagger, and tell 'em all, damn me they lye</l>
+               <l>
+                  <hi>for now</hi> I <hi>have got a Protection.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>You Merchants and Citizens that do live high</l>
+               <l>and are of a good Extraction,</l>
+               <l>Beware how you credit ſuch Gameſters as I.</l>
+               <l>for Cheating is our Complexion:</l>
+               <l>The Court, and the City, and Countrey may rue,</l>
+               <l>The unfortunate ſeaſon that ever they knew,</l>
+               <l>Such knaves as my ſelf (give the Divel his due)</l>
+               <l>
+                  <hi>that Couſen men with a Protection.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>William Gilbertſon</hi> at the <hi>Bible</hi> in <hi>Giltſpur-ſtreet.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
